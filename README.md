@@ -1,4 +1,4 @@
-# More Suits v1.3.1
+# XioTeam Suits v1.0.0
 ### Adds more suits to choose from, and allows you to customize them!
 
 ## Instructions
