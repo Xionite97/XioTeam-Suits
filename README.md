@@ -20,14 +20,5 @@ Add a "PRICE" key to your advanced .json to put a suit in the store rotation. Se
 Upload your own package with a ```moresuits``` folder in it and add ```XioTeam Suits``` as a dependency, and this mod will automatically load your .png files as suits. If you don't want the suits that originally come with my mod, add a file called ```!less-suits.txt``` to your ```moresuits``` folder in your mod.
 
 ## Changelog
-	- v1.3.0
-		- More Suits can now be used as a library for other suit mods
-	- v1.2.1
-		- Fixed suits being in a different order on the rack for each player
-	- v1.2.0
-		- Added support for adding suits to the store rotation
-	- v1.1.0
-		- Added new suits by Graelyth and Curt
-		- Added support for advanced features (normal maps, emission, etc)
 	- v1.0.0
-		- Release
+		- Mod was created using x753's original mod, I just wanted to add suits for me and my friends
